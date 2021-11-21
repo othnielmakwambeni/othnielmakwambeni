@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @othnielmakwambeni
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...mechatronics engineering
-- 💞️ I’m looking to collaborate on ...game development and machine learning
+- 💞️ I’m looking to collaborate on ...game development , webdevelopment , and machine learning
 - 📫 How to reach me ...othnielmakwambeni@gmail.com
 
 <!---
